@@ -1,7 +1,5 @@
 # Scalable ML Model with Real-Time Inference Endpoint for Customer Segmentation
 
-For a detailed blog explanation of the end-to-end project, visit this link: https://medium.com/@abhishekgoud1212/building-a-scalable-ml-model-with-real-time-inference-endpoint-for-customer-segmentation-e511cbec5bb3
-
 ## Overview:
 
 This repository showcases the development of a scalable machine learning model for customer segmentation, capable of handling real-time inference through a REST API. The project tackles the business challenge of segmenting customers using unstructured data to create tailored marketing strategies. The solution incorporates complex workflows such as data ingestion, transformation, model training, and deployment, leveraging modern tools like FastAPI, Docker, Kubernetes, and GitHub Actions.
